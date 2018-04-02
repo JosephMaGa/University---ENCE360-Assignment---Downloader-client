@@ -1,0 +1,2 @@
+# University---ENCE360-Assignment---Downloader-client
+Written in C. A concurrent and multi-threaded downloader with a queue for multiple requests. The folder is untouched from how it was submitted as an assignment. Because of this, the assignment hand-out and the report are included for reference and extra details. The files that were finished for the assignment are downloader/src/downloader.c and queue.c
